@@ -1,0 +1,7 @@
+dev@dev-machine:/home/developer/go-microservices/listener-service$ go mod init listener
+go: creating new go.mod: module listener
+
+dev@dev-machine:/home/developer/go-microservices/listener-service$ go get github.com/rabbitmq/amqp091-go
+go: downloading github.com/rabbitmq/amqp091-go v1.8.1
+go: added github.com/rabbitmq/amqp091-go v1.8.1
+
